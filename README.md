@@ -1,3 +1,10 @@
+![localhost_3000__ (1)](https://github.com/user-attachments/assets/3829b053-e3c5-4433-900f-b2fe28861b64)
+
+
+![localhost_3000__](https://github.com/user-attachments/assets/fb9f701f-c8b4-4fee-9d40-0cb8d9d5ccef)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
